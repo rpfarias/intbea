@@ -17,5 +17,5 @@ public class MsgBeaController {
     @GetMapping("testeprefixo")
     public String testMsgPrefixBea() {
         return "PC01";
-    }
+    } //testando commit
 }
